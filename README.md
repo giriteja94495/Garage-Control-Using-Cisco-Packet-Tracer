@@ -110,6 +110,9 @@ if __name__ == "__main__":
 * We can take into the consideration of the battery and power consumptions of the entire garage and minimise the power utilisation,by    turning off electrical devices when we are not using them.
 
 
+### If you need the Power point Presentation work regarding this project,You can find the ppt in the master branch .
+
+### Video explanation of the same is [Here](https://www.youtube.com/watch?v=St6utP4SqkI)
 
 <pre>                                                Copyrights [2020] [BILLE GIRITEJA] </pre>                                        
 
